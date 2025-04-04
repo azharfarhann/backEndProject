@@ -1,0 +1,18 @@
+// dotenv
+// npm install dotenv
+
+
+
+steps to install in terminal 
+
+// 1. npm install dotenv
+// 2. create a file dotenv
+// 3. add data in .env in below format 
+
+//.env
+NAME=AZHAR
+AGE=24
+
+
+
+// 4.
